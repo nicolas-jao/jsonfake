@@ -1,0 +1,9 @@
+{
+  "veterinarios": [
+    { "id": 1, "nome": "Marco", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "marco@gmail.com", "cep": 11111111, "logradouro": "Brasil", "numero": 1, "complemento":"apt 1", "bairro":"Costa Carvalho", "cidade":"Juiz de Fora", "UF":"MG", "senha":"123"},
+	{ "id": 2, "nome": "Antonio", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "antonio@gmail.com", "cep": 11111111, "logradouro": "Batista de Oliveira", "numero": 1, "complemento":"sem complemento", "bairro":"Centro", "cidade":"Juiz de Fora", "MG":"JF", "senha":"abc"},
+	{ "id": 3, "nome": "Pereira", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "pereira@gmail.com", "cep": 11111111, "logradouro": "Olégario Maciel", "numero": 1, "complemento":"casa 2", "bairro":"Jardim Glória", "cidade":"Juiz de Fora", "UF":"MG", "senha":"789"},
+	{ "id": 4, "nome": "Araujo", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "araujo@gmail.com", "cep": 11111111, "logradouro": "Violeta Santos", "numero": 1, "complemento":"bloco 4 apto 10", "bairro":"Santa Helena", "cidade":"Juiz de Fora", "UF":"MG", "senha":"xyz"},
+	{ "id": 5, "nome": "Marcão", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "marcao@gmail.com", "cep": 11111111, "logradouro": "Coronel Almeida Novaes", "numero": 1, "complemento":"sem complemento", "bairro":"Fábria", "cidade":"Juiz de Fora", "UF":"MG", "senha":"123abc"}
+  ]
+}
