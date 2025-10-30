@@ -7,11 +7,11 @@
 	{ "id": 5, "nome": "Marcão", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "marcao@gmail.com", "cep": 11111111, "logradouro": "Coronel Almeida Novaes", "numero": 1, "complemento":"sem complemento", "bairro":"Fábria", "cidade":"Juiz de Fora", "UF":"MG", "senha":"123abc"}
   ],
   "animais": [
-    { "id": 1, "nome": "Harry", "dataNascimento": "01/01/2022", "sexo": "M", "castrado":true, "observações":"sem observações", "foto":"-", "idTutor":1, "idRaça":1},
-	{ "id": 2, "nome": "Pitucho", "dataNascimento": "01/01/2022", "sexo": "M", "castrado":false, "observações":"sem observações", "foto":"-", "idTutor":2, "idRaça":1},
-	{ "id": 3, "nome": "Solineuza", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":true, "observações":"sem observações", "foto":"-", "idTutor":3, "idRaça":2},
-	{ "id": 4, "nome": "Fofinho", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":false, "observações":"sem observações", "foto":"-", "idTutor":4, "idRaça":2},
-	{ "id": 5, "nome": "Rex", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":false, "observações":"morde", "foto":"-", "idTutor":5, "idRaça":3}
+    { "id": 1, "nome": "Harry", "dataNascimento": "01/01/2022", "sexo": "M", "castrado":checked, "observações":"sem observações", "foto":"-", "idTutor":1, "idRaça":1},
+	{ "id": 2, "nome": "Pitucho", "dataNascimento": "01/01/2022", "sexo": "M", "castrado":, "observações":"sem observações", "foto":"-", "idTutor":2, "idRaça":1},
+	{ "id": 3, "nome": "Solineuza", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":checked, "observações":"sem observações", "foto":"-", "idTutor":3, "idRaça":2},
+	{ "id": 4, "nome": "Fofinho", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":, "observações":"sem observações", "foto":"-", "idTutor":4, "idRaça":2},
+	{ "id": 5, "nome": "Rex", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":, "observações":"morde", "foto":"-", "idTutor":5, "idRaça":3}
   ],
   "tutores": [
     { "id": 1, "nome": "João", "cpf": 11111111111, "telefone": "111111111", "email":"joao@gmail.com", "cep":11111111, "logradouro":"Batista de Oliveira", "numero": 1, "complemento":"Sem complemento", "bairro":"Arado", "cidade":"Juiz de Fora", "UF":"MG"},
