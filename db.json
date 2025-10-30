@@ -5,5 +5,19 @@
 	{ "id": 3, "nome": "Pereira", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "pereira@gmail.com", "cep": 11111111, "logradouro": "Olégario Maciel", "numero": 1, "complemento":"casa 2", "bairro":"Jardim Glória", "cidade":"Juiz de Fora", "UF":"MG", "senha":"789"},
 	{ "id": 4, "nome": "Araujo", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "araujo@gmail.com", "cep": 11111111, "logradouro": "Violeta Santos", "numero": 1, "complemento":"bloco 4 apto 10", "bairro":"Santa Helena", "cidade":"Juiz de Fora", "UF":"MG", "senha":"xyz"},
 	{ "id": 5, "nome": "Marcão", "cpf": 11111111111, "CRMV": "000000/SP", "telefone": 111111111, "email": "marcao@gmail.com", "cep": 11111111, "logradouro": "Coronel Almeida Novaes", "numero": 1, "complemento":"sem complemento", "bairro":"Fábria", "cidade":"Juiz de Fora", "UF":"MG", "senha":"123abc"}
+  ],
+  "animais": [
+    { "id": 1, "nome": "Harry", "dataNascimento": "01/01/2022", "sexo": "M", "castrado":true, "observações":"sem observações", "foto":"-", "idTutor":1, "idRaça":1},
+	{ "id": 2, "nome": "Pitucho", "dataNascimento": "01/01/2022", "sexo": "M", "castrado":false, "observações":"sem observações", "foto":"-", "idTutor":2, "idRaça":1},
+	{ "id": 3, "nome": "Solineuza", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":true, "observações":"sem observações", "foto":"-", "idTutor":3, "idRaça":2},
+	{ "id": 4, "nome": "Fofinho", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":false, "observações":"sem observações", "foto":"-", "idTutor":4, "idRaça":2},
+	{ "id": 5, "nome": "Rex", "dataNascimento": "01/01/2022", "sexo": "F", "castrado":false, "observações":"morde", "foto":"-", "idTutor":5, "idRaça":3}
+  ],
+  "tutores": [
+    { "id": 1, "nome": "João", "cpf": 11111111111, "telefone": "111111111", "email":"joao@gmail.com", "cep":11111111, "logradouro":"Batista de Oliveira", "numero": 1, "complemento":"Sem complemento", "bairro":"Arado", "cidade":"Juiz de Fora", "UF":"MG"},
+	{ "id": 2, "nome": "Nícolas", "cpf": 11111111111, "telefone": "111111111", "email":"nicolas@gmail.com", "cep":11111111, "logradouro":"Belo Horizonte", "numero": 1, "complemento":"casa 2", "bairro":"Centro", "cidade":"Juiz de Fora", "UF":"MG"},
+	{ "id": 3, "nome": "Iago", "cpf": 11111111111, "telefone": "111111111", "email":"iago@gmail.com", "cep":11111111, "logradouro":"Halfeld", "numero": 1, "complemento":"Sem complemento", "bairro":"Cerâmica", "cidade":"Juiz de Fora", "UF":"MG"},
+	{ "id": 4, "nome": "Thais", "cpf": 11111111111, "telefone": "111111111", "email":"thais@gmail.com", "cep":11111111, "logradouro":"São João", "numero": 1, "complemento":"apto 210", "bairro":"Santa Terezinha", "cidade":"Juiz de Fora", "UF":"MG"},
+	{ "id": 5, "nome": "Sophia", "cpf": 11111111111, "telefone": "111111111", "email":"sophia@gmail.com", "cep":11111111, "logradouro":"Bernardo Mascarenhas", "numero": 1, "complemento":"Sem complemento", "bairro":"Democrata", "cidade":"Juiz de Fora", "UF":"MG"}
   ]
 }
