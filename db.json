@@ -29,9 +29,9 @@
   ],
   "racas": [
     { "id": 1, "nome": "Poodle", "idEspecie":1, "nomeEspecie":"Cachorro"},
-	{ "id": 1, "nome": "SRD", "idEspecie":1, "nomeEspecie":"Cachorro"},
-	{ "id": 1, "nome": "Siamês", "idEspecie":2, "nomeEspecie":"Gato"},
-	{ "id": 1, "nome": "Laranja", "idEspecie":2, "nomeEspecie":"Gato"},
-	{ "id": 1, "nome": "Beta", "idEspecie":5, "nomeEspecie":"Peixe"}
+	{ "id": 2, "nome": "SRD", "idEspecie":1, "nomeEspecie":"Cachorro"},
+	{ "id": 3, "nome": "Siamês", "idEspecie":2, "nomeEspecie":"Gato"},
+	{ "id": 4, "nome": "Laranja", "idEspecie":2, "nomeEspecie":"Gato"},
+	{ "id": 5, "nome": "Beta", "idEspecie":5, "nomeEspecie":"Peixe"}
   ]
 }
