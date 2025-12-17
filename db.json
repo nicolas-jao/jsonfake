@@ -38,6 +38,6 @@
 	{ "id": 7, "nome": "Cobra do Milho", "idEspecie":4, "nomeEspecie":"Cobra"},
 	{ "id": 8, "nome": "Píton Bola", "idEspecie":4, "nomeEspecie":"Cobra"},
 	{ "id": 9, "nome": "Calopsita", "idEspecie":3, "nomeEspecie":"Ave"},
-	{ "id": 10, "nome": "Papagaio", "idEspecie":3, "nomeEspecie":"Ave"},
+	{ "id": 10, "nome": "Papagaio", "idEspecie":3, "nomeEspecie":"Ave"}
   ]
 }
